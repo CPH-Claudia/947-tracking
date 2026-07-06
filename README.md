@@ -1,6 +1,3 @@
-# 947-tracking
-Python data processing pipeline for tracking customer opportunity lists, visit-to-conversion performance, and Tableau dashboard inputs.
-
 # 947 商機客戶名單追蹤資料處理
 
 本專案為 947 商機客戶名單追蹤報表的 Python 資料處理流程。
